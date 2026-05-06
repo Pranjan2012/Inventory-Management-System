@@ -1,5 +1,5 @@
 /**
- * Name(s) of coder: Abdullah Ahmad (original), Updated by: Laxman Kharel / Team
+ * Name(s) of coder: Punjan Subedi
  * Date created: 11/28/2024
  * Date last changed: 01/04/2026
  * Name of the code artifact: PrintLowQuantityReport
