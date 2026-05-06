@@ -1,5 +1,5 @@
 /*
- * Name(s) of coder: Cedric Lucas, Laxman Kharel, Punjan Subedi
+ * Name(s) of coder:Punjan Subedi
  * Date created: 11/21/2024
  * Date last changed: 12/1/2024
  * Name of the code artifact: ProductClass
