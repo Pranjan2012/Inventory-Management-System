@@ -1,5 +1,5 @@
 /**
- * Name(s) of coder: Laxman Kharel, Punjan Subedi, Cedric Lucas
+ * Name(s) of coder:Punjan Subedi
  * Date created: 11/01/2024
  * Date last changed: 12/01/2024
  * Name of the code artifact: CycleCountClass
